@@ -13494,19 +13494,6 @@
 "bXo" = (
 /turf/simulated/wall,
 /area/maintenance/brig)
-"bXp" = (
-/obj/docking_port/stationary{
-	dir = 2;
-	dwidth = 2;
-	height = 18;
-	id = "skipjack_nw";
-	name = "North-West of Station";
-	width = 19
-	},
-/turf/space{
-	icon_state = "black"
-	},
-/area/space)
 "bXs" = (
 /obj/structure/barricade/wooden,
 /obj/machinery/door/airlock/wood,
@@ -42396,19 +42383,6 @@
 	icon_state = "grimy"
 	},
 /area/maintenance/detectives_office)
-"gnH" = (
-/obj/docking_port/stationary{
-	dir = 2;
-	dwidth = 2;
-	height = 18;
-	id = "skipjack_sw";
-	name = "South-West Solars";
-	width = 19
-	},
-/turf/space{
-	icon_state = "black"
-	},
-/area/space)
 "gnI" = (
 /mob/living/simple_animal/slime/random,
 /turf/simulated/floor/plating,
@@ -91929,19 +91903,6 @@
 	icon_state = "dark"
 	},
 /area/hallway/primary/central/second/north)
-"obX" = (
-/obj/docking_port/stationary{
-	dir = 2;
-	dwidth = 2;
-	height = 18;
-	id = "skipjack_ne";
-	name = "North-East of Station";
-	width = 19
-	},
-/turf/space/openspace{
-	icon_state = "black"
-	},
-/area/space)
 "oca" = (
 /turf/simulated/floor/plasteel{
 	icon_state = "redfull"
@@ -169092,7 +169053,7 @@ tkq
 tkq
 tkq
 tkq
-bXp
+wuh
 wuh
 wuh
 wuh
@@ -171746,7 +171707,7 @@ tkq
 tkq
 tkq
 tkq
-gnH
+wuh
 wuh
 wuh
 wuh
@@ -283721,7 +283682,7 @@ bkc
 bkc
 bkc
 bkc
-obX
+bXf
 bXf
 bXf
 bXf
